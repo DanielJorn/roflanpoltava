@@ -1,0 +1,575 @@
+[07.02.2021 23:57:41] bot.py:680 ERROR - [ERROR] Bot is not channel admin (@aaaa) or Telegram Servers are down..
+
+[07.02.2021 23:57:41] bot.py:675 INFO - [Bot] [Info] Scanning for new posts
+[07.02.2021 23:57:41] bot.py:675 INFO - [Bot] [Info] Last id of vk post is 0
+[07.02.2021 23:57:41] bot.py:680 ERROR - [ERROR] Exception in type KeyError in checkNewPost(): 'response'
+[07.02.2021 23:57:41] bot.py:675 INFO - [Bot] [Info] Scanning finished
+[07.02.2021 23:57:41] bot.py:675 INFO - [Bot] [Info] Script went to sleep for 120 seconds
+
+
+[08.02.2021 12:10:08] bot.py:675 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:10:09] bot.py:675 INFO - [Bot] [Info] Last id of vk post is 0
+[08.02.2021 12:10:09] bot.py:680 ERROR - [ERROR] Exception in type KeyError in checkNewPost(): 'response'
+[08.02.2021 12:10:10] bot.py:675 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:10:10] bot.py:675 INFO - [Bot] [Info] Script went to sleep for 4 seconds
+
+
+[08.02.2021 12:10:14] bot.py:675 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:10:15] bot.py:675 INFO - [Bot] [Info] Last id of vk post is 0
+[08.02.2021 12:10:15] bot.py:680 ERROR - [ERROR] Exception in type KeyError in checkNewPost(): 'response'
+[08.02.2021 12:10:15] bot.py:675 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:10:16] bot.py:675 INFO - [Bot] [Info] Script went to sleep for 4 seconds
+
+
+[08.02.2021 12:10:20] bot.py:675 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:10:20] bot.py:675 INFO - [Bot] [Info] Last id of vk post is 0
+[08.02.2021 12:10:21] bot.py:680 ERROR - [ERROR] Exception in type KeyError in checkNewPost(): 'response'
+[08.02.2021 12:10:21] bot.py:675 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:10:21] bot.py:675 INFO - [Bot] [Info] Script went to sleep for 4 seconds
+
+
+[08.02.2021 12:11:44] bot.py:675 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:11:44] bot.py:675 INFO - [Bot] [Info] Last id of vk post is 0
+[08.02.2021 12:11:45] bot.py:680 ERROR - [ERROR] Exception in type KeyError in checkNewPost(): 'response'
+[08.02.2021 12:11:45] bot.py:675 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:11:45] bot.py:675 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:12:05] bot.py:675 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:12:06] bot.py:675 INFO - [Bot] [Info] Last id of vk post is 0
+[08.02.2021 12:12:06] bot.py:680 ERROR - [ERROR] Exception in type KeyError in checkNewPost(): 'response'
+[08.02.2021 12:12:06] bot.py:675 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:12:07] bot.py:675 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:12:27] bot.py:675 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:12:27] bot.py:675 INFO - [Bot] [Info] Last id of vk post is 0
+[08.02.2021 12:12:28] bot.py:680 ERROR - [ERROR] Exception in type KeyError in checkNewPost(): 'response'
+[08.02.2021 12:12:28] bot.py:675 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:12:28] bot.py:675 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:13:08] bot.py:675 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:13:08] bot.py:675 INFO - [Bot] [Info] Last id of vk post is 2
+[08.02.2021 12:13:09] bot.py:680 ERROR - [ERROR] Exception in type KeyError in checkNewPost(): 'response'
+[08.02.2021 12:13:09] bot.py:675 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:13:10] bot.py:675 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:14:22] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:14:22] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 2
+[08.02.2021 12:14:23] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:14:23] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:15:12] bot.py:675 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:15:12] bot.py:675 INFO - [Bot] [Info] Last id of vk post is 2
+[08.02.2021 12:15:13] bot.py:680 ERROR - [ERROR] Exception in type KeyError in checkNewPost(): 'response'
+[08.02.2021 12:15:13] bot.py:675 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:15:13] bot.py:675 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:15:27] bot.py:675 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:15:27] bot.py:675 INFO - [Bot] [Info] Last id of vk post is 2
+[08.02.2021 12:15:27] bot.py:680 ERROR - [ERROR] Exception in type KeyError in checkNewPost(): 'response'
+[08.02.2021 12:15:28] bot.py:675 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:15:28] bot.py:675 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:17:04] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:17:04] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 2
+[08.02.2021 12:17:46] bot.py:678 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:17:46] bot.py:678 INFO - [Bot] [Info] Last id of vk post is 2
+[08.02.2021 12:22:08] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:22:08] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 2
+[08.02.2021 12:23:32] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:23:33] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 2
+[08.02.2021 12:23:33] bot.py:679 INFO - [Bot] [Info] Got some posts [id:397311-397503]
+[08.02.2021 12:23:33] bot.py:679 INFO - [Bot] [Info] [id:397448] Bot is working with this post
+[08.02.2021 12:23:34] bot.py:679 INFO - [Bot] [Info] [id:397448] Bot is trying to send post with photo
+[08.02.2021 12:23:38] bot.py:679 INFO - [Bot] [Info] [id:397311] Bot is working with this post
+[08.02.2021 12:23:38] bot.py:679 INFO - [Bot] [Info] [id:397311] Bot is trying to send post with photo
+[08.02.2021 12:23:39] bot.py:679 INFO - [Bot] [Info] [id:397311] Text post (>1024) with photo sent
+[08.02.2021 12:23:39] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 397503
+[08.02.2021 12:23:39] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:23:46] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:24:06] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:24:06] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 397503
+[08.02.2021 12:24:07] bot.py:679 INFO - [Bot] [Info] Got some posts [id:397311-397503]
+[08.02.2021 12:24:07] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 397503
+[08.02.2021 12:24:07] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:24:08] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:24:32] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:24:32] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 397503
+[08.02.2021 12:24:33] bot.py:679 INFO - [Bot] [Info] Got some posts [id:397311-397503]
+[08.02.2021 12:24:34] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 397503
+[08.02.2021 12:24:34] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:24:34] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:24:58] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:24:59] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 397503
+[08.02.2021 12:24:59] bot.py:679 INFO - [Bot] [Info] Got some posts [id:397311-397503]
+[08.02.2021 12:24:59] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 397503
+[08.02.2021 12:25:00] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:25:00] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:25:24] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:25:25] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 397503
+[08.02.2021 12:25:25] bot.py:679 INFO - [Bot] [Info] Got some posts [id:397311-397503]
+[08.02.2021 12:25:25] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 397503
+[08.02.2021 12:25:26] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:25:26] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:25:50] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:25:50] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 397503
+[08.02.2021 12:25:51] bot.py:679 INFO - [Bot] [Info] Got some posts [id:397311-397503]
+[08.02.2021 12:25:51] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 397503
+[08.02.2021 12:25:51] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:25:52] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:26:16] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:26:17] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 397503
+[08.02.2021 12:26:17] bot.py:679 INFO - [Bot] [Info] Got some posts [id:397311-397503]
+[08.02.2021 12:26:18] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 397503
+[08.02.2021 12:26:18] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:26:18] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:26:45] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:26:45] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 397503
+[08.02.2021 12:26:45] bot.py:679 INFO - [Bot] [Info] Got some posts [id:397311-397503]
+[08.02.2021 12:26:46] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 397503
+[08.02.2021 12:26:46] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:26:46] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:27:13] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:27:13] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 397503
+[08.02.2021 12:27:14] bot.py:679 INFO - [Bot] [Info] Got some posts [id:397311-397503]
+[08.02.2021 12:27:14] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 397503
+[08.02.2021 12:27:14] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:27:14] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:27:41] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:27:41] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 397503
+[08.02.2021 12:27:42] bot.py:679 INFO - [Bot] [Info] Got some posts [id:397311-397503]
+[08.02.2021 12:27:42] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 397503
+[08.02.2021 12:27:42] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:27:42] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:28:09] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:28:09] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 397503
+[08.02.2021 12:28:10] bot.py:679 INFO - [Bot] [Info] Got some posts [id:397311-397503]
+[08.02.2021 12:28:10] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 397503
+[08.02.2021 12:28:10] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:28:11] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:28:37] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:28:37] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 397503
+[08.02.2021 12:28:38] bot.py:679 INFO - [Bot] [Info] Got some posts [id:397311-397503]
+[08.02.2021 12:28:38] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 397503
+[08.02.2021 12:28:38] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:28:38] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:29:05] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:29:05] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 397503
+[08.02.2021 12:29:05] bot.py:679 INFO - [Bot] [Info] Got some posts [id:397311-397503]
+[08.02.2021 12:29:06] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 397503
+[08.02.2021 12:29:06] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:29:06] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:29:33] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:29:33] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 397503
+[08.02.2021 12:29:34] bot.py:679 INFO - [Bot] [Info] Got some posts [id:397311-397503]
+[08.02.2021 12:29:34] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 397503
+[08.02.2021 12:29:34] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:29:35] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:29:59] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:29:59] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 397503
+[08.02.2021 12:30:00] bot.py:679 INFO - [Bot] [Info] Got some posts [id:397311-397503]
+[08.02.2021 12:30:00] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 397503
+[08.02.2021 12:30:00] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:30:01] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:30:27] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:30:27] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 397503
+[08.02.2021 12:30:28] bot.py:679 INFO - [Bot] [Info] Got some posts [id:397311-397503]
+[08.02.2021 12:30:28] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 397503
+[08.02.2021 12:30:28] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:30:28] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:30:55] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:30:55] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 397503
+[08.02.2021 12:30:55] bot.py:679 INFO - [Bot] [Info] Got some posts [id:397311-397503]
+[08.02.2021 12:30:56] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 397503
+[08.02.2021 12:30:56] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:30:56] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:31:20] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:31:21] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 397503
+[08.02.2021 12:31:21] bot.py:679 INFO - [Bot] [Info] Got some posts [id:397311-397503]
+[08.02.2021 12:31:22] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 397503
+[08.02.2021 12:31:22] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:31:22] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:31:49] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:31:49] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 397503
+[08.02.2021 12:31:50] bot.py:679 INFO - [Bot] [Info] Got some posts [id:397311-397503]
+[08.02.2021 12:31:50] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 397503
+[08.02.2021 12:31:50] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:31:50] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:32:17] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:32:17] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 397503
+[08.02.2021 12:32:18] bot.py:679 INFO - [Bot] [Info] Got some posts [id:397311-397503]
+[08.02.2021 12:32:18] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 397503
+[08.02.2021 12:32:18] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:32:18] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:32:45] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:32:45] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 397503
+[08.02.2021 12:32:45] bot.py:679 INFO - [Bot] [Info] Got some posts [id:397311-397503]
+[08.02.2021 12:32:45] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 397503
+[08.02.2021 12:32:46] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:32:46] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:33:10] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:33:10] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 397503
+[08.02.2021 12:33:11] bot.py:679 INFO - [Bot] [Info] Got some posts [id:397311-397503]
+[08.02.2021 12:33:11] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 397503
+[08.02.2021 12:33:12] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:33:12] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:33:31] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:33:31] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 397503
+[08.02.2021 12:33:31] bot.py:679 INFO - [Bot] [Info] Got some posts [id:2-3]
+[08.02.2021 12:33:32] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 3
+[08.02.2021 12:33:32] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:33:32] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:33:57] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:33:57] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 3
+[08.02.2021 12:33:57] bot.py:679 INFO - [Bot] [Info] Got some posts [id:2-3]
+[08.02.2021 12:33:58] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 3
+[08.02.2021 12:33:58] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:33:58] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:34:23] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:34:23] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 3
+[08.02.2021 12:34:23] bot.py:679 INFO - [Bot] [Info] Got some posts [id:2-3]
+[08.02.2021 12:34:24] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 3
+[08.02.2021 12:34:24] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:34:24] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:34:48] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:34:49] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 3
+[08.02.2021 12:34:49] bot.py:679 INFO - [Bot] [Info] Got some posts [id:2-4]
+[08.02.2021 12:34:49] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 4
+[08.02.2021 12:34:50] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:34:50] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:35:14] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:35:14] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 4
+[08.02.2021 12:35:15] bot.py:679 INFO - [Bot] [Info] Got some posts [id:2-4]
+[08.02.2021 12:35:15] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 4
+[08.02.2021 12:35:15] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:35:16] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:35:40] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:35:40] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 4
+[08.02.2021 12:35:41] bot.py:679 INFO - [Bot] [Info] Got some posts [id:2-4]
+[08.02.2021 12:35:41] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 4
+[08.02.2021 12:35:41] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:35:42] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:36:06] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:36:06] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 4
+[08.02.2021 12:36:06] bot.py:679 INFO - [Bot] [Info] Got some posts [id:2-4]
+[08.02.2021 12:36:07] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 4
+[08.02.2021 12:36:07] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:36:07] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:36:09] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:36:11] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 4
+[08.02.2021 12:36:12] bot.py:679 INFO - [Bot] [Info] Got some posts [id:2-4]
+[08.02.2021 12:36:15] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 4
+[08.02.2021 12:36:18] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:36:19] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:36:39] bot.py:679 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:36:39] bot.py:679 INFO - [Bot] [Info] Last id of vk post is 4
+[08.02.2021 12:36:40] bot.py:679 INFO - [Bot] [Info] Got some posts [id:2-4]
+[08.02.2021 12:36:40] bot.py:679 INFO - [Bot] [Info] New last id of vk post is 4
+[08.02.2021 12:36:40] bot.py:679 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:36:40] bot.py:679 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:37:04] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:37:04] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 4
+[08.02.2021 12:37:05] bot.py:677 INFO - [Bot] [Info] Got some posts [id:2-4]
+[08.02.2021 12:37:05] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 4
+[08.02.2021 12:37:06] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:37:06] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:37:29] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:37:30] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 4
+[08.02.2021 12:37:30] bot.py:677 INFO - [Bot] [Info] Got some posts [id:3-5]
+[08.02.2021 12:37:30] bot.py:677 INFO - [Bot] [Info] [id:5] Bot is working with this post
+[08.02.2021 12:37:31] bot.py:677 INFO - [Bot] [Info] [id:5] Bot is trying to send text post
+[08.02.2021 12:37:31] bot.py:677 INFO - [Bot] [Info] [id:5] Text post sent
+[08.02.2021 12:37:36] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 5
+[08.02.2021 12:37:36] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:37:36] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:37:56] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:37:57] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 5
+[08.02.2021 12:37:57] bot.py:677 INFO - [Bot] [Info] Got some posts [id:3-5]
+[08.02.2021 12:37:57] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 5
+[08.02.2021 12:37:58] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:37:58] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:38:22] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:38:23] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 5
+[08.02.2021 12:38:23] bot.py:677 INFO - [Bot] [Info] Got some posts [id:4-6]
+[08.02.2021 12:38:23] bot.py:677 INFO - [Bot] [Info] [id:6] Bot is working with this post
+[08.02.2021 12:38:23] bot.py:677 INFO - [Bot] [Info] [id:6] Bot is trying to send post with photo
+[08.02.2021 12:38:30] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 6
+[08.02.2021 12:38:30] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:38:31] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:38:51] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:38:51] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 6
+[08.02.2021 12:38:52] bot.py:677 INFO - [Bot] [Info] Got some posts [id:5-7]
+[08.02.2021 12:38:52] bot.py:677 INFO - [Bot] [Info] [id:7] Bot is working with this post
+[08.02.2021 12:38:52] bot.py:677 INFO - [Bot] [Info] [id:7] Bot is trying to send post with photo
+[08.02.2021 12:38:57] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 7
+[08.02.2021 12:38:57] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:38:57] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:39:18] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:39:18] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 7
+[08.02.2021 12:39:18] bot.py:677 INFO - [Bot] [Info] Got some posts [id:5-7]
+[08.02.2021 12:39:19] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 7
+[08.02.2021 12:39:19] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:39:19] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:39:46] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:39:46] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 7
+[08.02.2021 12:39:46] bot.py:677 INFO - [Bot] [Info] Got some posts [id:5-7]
+[08.02.2021 12:39:47] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 7
+[08.02.2021 12:39:47] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:39:47] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:40:11] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:40:12] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 7
+[08.02.2021 12:40:12] bot.py:677 INFO - [Bot] [Info] Got some posts [id:5-7]
+[08.02.2021 12:40:12] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 7
+[08.02.2021 12:40:13] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:40:13] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:40:37] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:40:37] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 7
+[08.02.2021 12:40:38] bot.py:677 INFO - [Bot] [Info] Got some posts [id:5-7]
+[08.02.2021 12:40:38] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 7
+[08.02.2021 12:40:38] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:40:38] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:41:03] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:41:03] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 7
+[08.02.2021 12:41:04] bot.py:677 INFO - [Bot] [Info] Got some posts [id:5-7]
+[08.02.2021 12:41:04] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 7
+[08.02.2021 12:41:04] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:41:05] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:41:31] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:41:31] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 7
+[08.02.2021 12:41:32] bot.py:677 INFO - [Bot] [Info] Got some posts [id:5-7]
+[08.02.2021 12:41:32] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 7
+[08.02.2021 12:41:32] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:41:33] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:41:59] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:42:00] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 7
+[08.02.2021 12:42:00] bot.py:677 INFO - [Bot] [Info] Got some posts [id:5-7]
+[08.02.2021 12:42:00] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 7
+[08.02.2021 12:42:00] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:42:01] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:42:25] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:42:25] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 7
+[08.02.2021 12:42:26] bot.py:677 INFO - [Bot] [Info] Got some posts [id:5-7]
+[08.02.2021 12:42:26] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 7
+[08.02.2021 12:42:26] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:42:27] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:42:49] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:42:50] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 7
+[08.02.2021 12:42:50] bot.py:677 INFO - [Bot] [Info] Got some posts [id:181958-181969]
+[08.02.2021 12:42:50] bot.py:677 INFO - [Bot] [Info] [id:181969] Bot is working with this post
+[08.02.2021 12:42:51] bot.py:677 INFO - [Bot] [Info] [id:181969] Bot is trying to send post with photos
+[08.02.2021 12:42:55] bot.py:677 INFO - [Bot] [Info] [id:181969] Text post with photos sent
+[08.02.2021 12:42:55] bot.py:677 INFO - [Bot] [Info] [id:181962] Bot is working with this post
+[08.02.2021 12:42:56] bot.py:677 INFO - [Bot] [Info] [id:181962] Bot is trying to send post with photo
+[08.02.2021 12:43:00] bot.py:677 INFO - [Bot] [Info] [id:181958] Bot is working with this post
+[08.02.2021 12:43:00] bot.py:677 INFO - [Bot] [Info] [id:181958] Bot is trying to send post with photo
+[08.02.2021 12:43:02] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 181969
+[08.02.2021 12:43:02] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:43:05] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:43:26] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:43:26] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 181969
+[08.02.2021 12:43:26] bot.py:677 INFO - [Bot] [Info] Got some posts [id:181958-181969]
+[08.02.2021 12:43:27] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 181969
+[08.02.2021 12:43:27] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:43:27] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:43:51] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:43:52] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 181969
+[08.02.2021 12:43:52] bot.py:677 INFO - [Bot] [Info] Got some posts [id:181958-181969]
+[08.02.2021 12:43:52] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 181969
+[08.02.2021 12:43:53] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:43:53] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:44:17] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:44:18] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 181969
+[08.02.2021 12:44:18] bot.py:677 INFO - [Bot] [Info] Got some posts [id:181958-181969]
+[08.02.2021 12:44:19] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 181969
+[08.02.2021 12:44:19] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:44:19] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:44:46] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:44:46] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 181969
+[08.02.2021 12:44:46] bot.py:677 INFO - [Bot] [Info] Got some posts [id:181958-181969]
+[08.02.2021 12:44:47] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 181969
+[08.02.2021 12:44:47] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:44:47] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:45:14] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:45:14] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 181969
+[08.02.2021 12:45:14] bot.py:677 INFO - [Bot] [Info] Got some posts [id:181958-181969]
+[08.02.2021 12:45:15] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 181969
+[08.02.2021 12:45:15] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:45:15] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:45:42] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:45:42] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 181969
+[08.02.2021 12:45:43] bot.py:677 INFO - [Bot] [Info] Got some posts [id:181958-181969]
+[08.02.2021 12:45:43] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 181969
+[08.02.2021 12:45:44] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:45:44] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:46:10] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:46:11] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 181969
+[08.02.2021 12:46:11] bot.py:677 INFO - [Bot] [Info] Got some posts [id:181958-181969]
+[08.02.2021 12:46:11] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 181969
+[08.02.2021 12:46:12] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:46:12] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:46:36] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:46:36] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 181969
+[08.02.2021 12:46:37] bot.py:677 INFO - [Bot] [Info] Got some posts [id:181958-181969]
+[08.02.2021 12:46:37] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 181969
+[08.02.2021 12:46:37] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:46:38] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:47:02] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:47:02] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 181969
+[08.02.2021 12:47:03] bot.py:677 INFO - [Bot] [Info] Got some posts [id:181958-181969]
+[08.02.2021 12:47:03] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 181969
+[08.02.2021 12:47:03] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:47:03] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:47:30] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:47:30] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 181969
+[08.02.2021 12:47:31] bot.py:677 INFO - [Bot] [Info] Got some posts [id:181958-181969]
+[08.02.2021 12:47:31] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 181969
+[08.02.2021 12:47:31] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:47:32] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:47:56] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:47:56] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 181969
+[08.02.2021 12:47:57] bot.py:677 INFO - [Bot] [Info] Got some posts [id:181958-181969]
+[08.02.2021 12:47:57] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 181969
+[08.02.2021 12:47:57] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:47:58] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:48:24] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:48:24] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 181969
+[08.02.2021 12:48:25] bot.py:677 INFO - [Bot] [Info] Got some posts [id:181958-181969]
+[08.02.2021 12:48:25] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 181969
+[08.02.2021 12:48:25] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:48:26] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:48:50] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:48:51] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 181969
+[08.02.2021 12:48:51] bot.py:677 INFO - [Bot] [Info] Got some posts [id:181958-181969]
+[08.02.2021 12:48:51] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 181969
+[08.02.2021 12:48:52] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:48:52] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
+[08.02.2021 12:49:16] bot.py:677 INFO - [Bot] [Info] Scanning for new posts
+[08.02.2021 12:49:16] bot.py:677 INFO - [Bot] [Info] Last id of vk post is 181969
+[08.02.2021 12:49:16] bot.py:677 INFO - [Bot] [Info] Got some posts [id:181958-181969]
+[08.02.2021 12:49:17] bot.py:677 INFO - [Bot] [Info] New last id of vk post is 181969
+[08.02.2021 12:49:17] bot.py:677 INFO - [Bot] [Info] Scanning finished
+[08.02.2021 12:49:17] bot.py:677 INFO - [Bot] [Info] Script went to sleep for 20 seconds
+
+
